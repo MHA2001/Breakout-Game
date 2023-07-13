@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+}
+
+main{
+    margin: auto;
+    margin-top: 50px ;
+    position: relative;
+    width: 560px;
+    height: 300px;
+    border: 1px solid black;
+    
+
+}
+
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+}
+
+.user{
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    background-color: purple;
+
+}
+
+.ball{
+    position: absolute;
+    width: 15px ;
+    height: 15px;
+    border-radius: 50%;
+    background-color: red;
+}
